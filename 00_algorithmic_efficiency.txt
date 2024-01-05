@@ -1,0 +1,22 @@
+To create a efficient program, programmers needs to look forward into 2 things
+
+   1. Time 
+   2. Space
+
+Time:
+Google uses it's Time succesfully in every query of searches. About 25,270,000,000 results (0.27 seconds) in this search I looked for Google, where it not only checked "google" in all 25billion but also did SEO and rank them. Imagine if the Google didn't uses its Time properly then it will be Google as we know today
+
+Space:
+Asphalt's captives 3gb rom of the phone at 2015, people on that time didn't had high end devices. Thus, they can't play. Asphalt later created a lite version of the game which was only 39mb. Now the people who didn't had high end devices they now can play. 
+
+Suppose you are Mark zukerberg, you want to hire a dev. The css file is 20kb, dev A said he can reduce to 19kb and asking for 24k. Dev B said he can reduced to 18kb and asking for 50k. Fb's active user is 3 billion, who is better for the profit. 
+
+Is it worth to hire Dev B, he can reduce it 1 more than dev A and aksing for two times of dev A
+2000000000 * 1kb or 2000gb
+
+1 year = 365 days
+2000 * 365 = 730000gb per year
+
+Cost of Bandwith avg 0.12$ AWS
+so 730000gb * 0.12 = 87600$ 
+the profit is 50k - 87k = 37$
