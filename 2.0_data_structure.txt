@@ -1,0 +1,6 @@
+What is Data Strcuture?
+Data Strcuture is a way to solve certain difficult problems in a effecient and optimism way 
+
+Examples:
+1. You wanna create a Browswer and gonna implement left and right going feature. You can do it with STACK
+2. filebrowser where you're trying to list all files and folder. you can do with loop or  recursion and to effeciently handle use TREE
