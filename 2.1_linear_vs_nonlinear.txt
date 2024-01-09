@@ -1,0 +1,11 @@
+Linear DS, connects the data in a sequence way 
+- Array
+- Linked List 
+- Stacks
+- Queues
+- Hashing 
+
+
+Non-Linear DS, connects the data in a hirarchy way
+- Tree
+- Graph 
