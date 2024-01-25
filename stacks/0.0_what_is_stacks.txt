@@ -1,0 +1,16 @@
+Stacks is a way to store data
+It uses LIFO e.g Last In First Out
+
+|  9  |
+|  2  |
+|  89 |
+|  2  |
+|  4  |
+-------
+
+9 will come out at first then 2,89...
+
+Basics operations:
+push --> put items at stack e.g 4 putted at begninig while 9 putted at last
+pop --> delete the latest item, 9
+peak --> return the latest item, 9
