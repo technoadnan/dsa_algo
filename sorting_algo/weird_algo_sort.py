@@ -18,3 +18,7 @@ def monkey_sort(arr):
    print(arr)
 
 monkey_sort([2, 1, 3, 4])
+
+# Sleep sort
+
+# the concept given a array the numbers will print based on the time. So, the less the number is the less the earlier it will print. 
