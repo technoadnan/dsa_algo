@@ -1,0 +1,5 @@
+Adapative property is when a algo understand that the algo is sorted even if a little bit
+
+Stabled is when two equal object appear in the same order in sorted output
+   For example: peach, straw, apple, spork. Sort these elements
+   apple, peach, straw, spork. S is appeared here twice to sort these items see the next value which are t and p. T comes at first then P. But if spork appears first and then straw then it will not Stabled
